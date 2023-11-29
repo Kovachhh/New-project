@@ -1,2 +1,2 @@
 # New-project
-https://kovachhh.github.io/new-project
+[https://kovachhh.github.io/New-project](https://kovachhh.github.io/New-project/)
